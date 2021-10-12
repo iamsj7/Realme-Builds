@@ -5,11 +5,11 @@
 #### Flashing Guide
 
 * Note: Before flashing AOSP 12 your device must be on Realme UI 1.0 with unlocked Bootloader with TWRP Recovery
-> Unlock Bootloader and flash Official TWRP Recovery
-> Boot into recovery 
-> Flash ROM, Gapps if needed
-> Format Data
-> Reboot to system
+* [Unlock Bootloader](https://forum.xda-developers.com/t/guide-how-to-unlock-bootloader-install-twrp-gsi-and-magisk.3938845/) and flash Official [TWRP Recovery](https://dl.twrp.me/RMX1851/)
+* Boot into recovery 
+* Flash ROM, Gapps if needed
+* Format Data
+* Reboot to system
 
 #### Changelog
 Whats's working ?
