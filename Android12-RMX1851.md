@@ -35,7 +35,7 @@ Note:
 
 #### Download link & version Tracker:
 12-10-2021
-#### ROM: [Fluid-2.0-Soda-UNOFFICIAL-RMX1851-20211011.zip](https://sourceforge.net/projects/sjhub/files/RMX1851/FluidOS/Fluid-2.0-Soda-UNOFFICIAL-RMX1851-20211011.zip/download)
+#### ROM: [Fluid-2.0-Soda-UNOFFICIAL-RMX1851-20211011.zip](https://drive.google.com/file/d/1NR2ZtVK2dI2a03WD7V14Ab7K3T2Xkdx-/view?usp=sharing)
 * Changelog: 
 * Alpha 1.0 (initial build )
 
